@@ -14,4 +14,4 @@ Given the dataset described above, train a NN for a binary-class classification 
 
 Problem 2:
 
-Given the results of "Problem 1", train a NN for a multi-class classification problem. The NN has to determine what kind of food has been cooked during the meal.
+Given the results of "Problem 1", train a NN for a multi-class classification problem. The NN has to determine what kind of foods have been cooked during the meal.
