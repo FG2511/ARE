@@ -6,12 +6,7 @@ The dataset contains minute-by-minute data about temperature, humidity, air pres
   - an attribute 'Activity' that can assume the values 'Meal' (class 1) or 'Other' (class 0).
   - other attributes that give informations about meals: food, domestic appliances, windows. 
     Also these attributes are binary (values: 0,1).
+    
+Problem:
 
-Problem 1:
-
-Given the dataset described above, train a NN for a binary-class classification probelm. The NN has to classify if a minute belongs to the class 'Meal' (1) or to the class 'Other' (0).
-
-
-Problem 2:
-
-Given the results of "Problem 1", train a NN for a multi-class classification problem. The NN has to determine what kind of foodstuffs have been cooked during the meal.
+Given the dataset described above, train a MLP for a binary-class classification probelm. The NN has to classify if a minute belongs to the class 'Meal' (1) or to the class 'Other' (0).
